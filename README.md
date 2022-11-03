@@ -29,7 +29,7 @@ If you do not provide a secret, the server will generate a random secret for you
 On your browser:
 ```ini
 ## Navigate to the browser client (hosted on github):
-https://cmdruid.github.io/nostr-terminal/web
+https://johnongit.github.io/nostr-terminal/web
 
 ## Or host your own web client! The files are here:
 nostr-terminal/web
